@@ -3,7 +3,7 @@
 ## Developer and Smart Home enthusiast
 
 -   🌍 I'm based in Düsseldorf, Germany
--   ✉️ You can contact me at [gh@leith.de](mailto:gh@leith.de)
+-   ✉️ You can contact me at [github@thrawn.io](mailto:github@thrawn.io)
 -   🚀 I'm currently working on [homebridge-appletv-enhanced](https://github.com/maxileith/homebridge-appletv-enhanced)
 
 ## Skills
